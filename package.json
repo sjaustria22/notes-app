@@ -1,5 +1,4 @@
 {
-  "homepage": "https://jrgrimshaw.github.io/notes-app-tutorial",
   "name": "notes-app",
   "version": "0.1.0",
   "private": true,
@@ -10,13 +9,11 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-markdown": "^5.0.3",
-    "react-scripts": "4.0.2",
+    "react-scripts": "^5.0.1",
     "react-uuid": "^1.0.2",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

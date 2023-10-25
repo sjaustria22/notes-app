@@ -1,10 +1,7 @@
-# Notes App Tutorial
+# Notes App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Tutorial
-
-This source code is from my React.js project guide. Watch it here: https://www.youtube.com/watch?v=ulOKYl5sHGk&t=1932s
 
 ## Available Scripts
 
@@ -28,6 +25,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+## App hosted successfully on
+
+https://sjaustria22.github.io/notes-app/
+
 ## Acknowledgements
 
-(c) 2021 James Grimshaw
+I created this app from youtube channel of James Grimshaw
